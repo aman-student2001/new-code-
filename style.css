@@ -1,12 +1,12 @@
 body{
-    background-color: aqua;
+    background-color: rgb(59, 150, 150);
 
 }
-.div{
+div{
     padding: 12px;
     width: 10px;
     margin: 0%;
-    color: aliceblue;
-    border: 0cap;
-    
+    color: rgb(224, 230, 235);
+    border: 5cap;
+
 }
